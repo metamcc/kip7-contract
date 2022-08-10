@@ -15,6 +15,4 @@ Furthermore, Metamcc aims to produce Trust Data in both reality and metaverse. P
     - Decimals: 18
     - update date: 2022.08.10.
 
-# Future Plans
 
-In the virtual world, in the metaverse, a one-and-only NFT, limited amount of only 100,000, is being distributed to the individuals allowing the ownership of land and house within the metaverse. This virtual world will eventually connect with Metamcc Seed Networking allowing an interchangeable market of exchange within the real and metaverse network.
