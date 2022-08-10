@@ -9,7 +9,7 @@ Furthermore, Metamcc aims to produce Trust Data in both reality and metaverse. P
     - To prevent overflow with arithmetic operations, MCCXToken uses SafeMath library
     - MCCXToken has functionalities for token transfer and blocking token transfer handled by contract
     - Blocking token transfer that locks MCCX token of specific token owener is added to prevent unfortunate accident like hacking
-    - MCCXToken defines the token standard will be used for MCC service
+    - MCCXToken defines the token standard will be used for Metamcc service
     - Name: MetamccX
     - Symbol : MCCX
     - Decimals: 18
