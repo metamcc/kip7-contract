@@ -98,5 +98,5 @@ MCCX Token은 특정 지갑을 lock 시키기위하여 아래와 같은 method�
 
 
 - ## MCCXToken Timelock 지원
-일반적으로 token contract에서는 timelock 함수등을 지원하여 투명한 토큰 배포계획등을 지원하는데, MCCX는 이러한 지원을 굿모닝 서비스를 통해 일부 필요한 토큰에 대한 timelock을 구현하여 지원한다.
+일반적으로 token contract에서는 timelock 함수등을 지원하여 투명한 토큰 배포계획등을 지원하는데, MCCX는 이러한 지원을 굿모닝 서비스를 통해 일부 필요한 토큰에 대한 timelock을 구현하였다.
 굿모닝은 MCCX를 지원하는 자체 서비스 지갑으로서의 역활 뿐만아니라 굿모닝을 통한 MCCX토큰의 서비스 앱이다.
